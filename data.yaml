@@ -1,0 +1,7 @@
+
+train: final_dataset/train/images
+val: final_dataset/val/images
+test: final_dataset/test/images
+
+nc: 4
+names: ['fiber', 'fragment', 'film', 'pellet']
